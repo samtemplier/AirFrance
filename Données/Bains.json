@@ -1,52 +1,62 @@
 {
     "SOLUWAX":{
         "Dispo": true,
-        "Quantite": 1 
+        "Quantite": 1,
+        "Time": "00:00:00"
     },
 
     "PRE RINCAGE":{
         "Dispo": true,
-        "Quantite": 1 
+        "Quantite": 1,
+        "Time": "00:00:00" 
     },
      
     "RINCAGE PROPRE":{
         "Dispo": true,
-        "Quantite": 1 
+        "Quantite": 1,
+        "Time": "00:00:00"
     },
      
     "HDL-202 1":{
         "Dispo": true,
-        "Quantite": 1 
+        "Quantite": 1,
+        "Time": "00:00:00" 
     },
      
     "RINCAGE CHAUD":{
         "Dispo": true,
-        "Quantite": 1 
+        "Quantite": 1,
+        "Time": "00:00:00" 
     },
      
     "HDL-202 Ti":{
         "Dispo": true,
-        "Quantite": 1 
+        "Quantite": 1,
+        "Time": "00:00:00" 
     },
      
     "HDL-202 2":{
         "Dispo": true,
-        "Quantite": 1 
+        "Quantite": 1,
+        "Time": "00:00:00"
     },
      
     "HDL-73W":{
         "Dispo": true,
-        "Quantite": 1 
+        "Quantite": 1,
+        "Time": "00:00:00" 
     },
           
     "HDL-2524":{
         "Dispo": true,
-        "Quantite": 1
+        "Quantite": 1,
+        "Time": "00:00:00"
     },
                
     "RINCAGE ASPERTION":{
         "Dispo": true,
-        "Quantite": 1
+        "Quantite": 1,
+        "Time": "00:00:00"
     }
 
 }

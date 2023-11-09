@@ -1,30 +1,35 @@
 {
     "Cycle_220":{
        "Bain": ["SOLUWAX", "PRE RINCAGE", "RINCAGE PROPRE", "RINCAGE CHAUD"],
-       "Duree": [30, 10, 10, 10] 
+       "Duree": [30, 10, 10, 10],
+       "Time": "00:00:00" 
     },
 
     "Cycle_60":{
         "Bain": ["SOLUWAX", "PRE RINCAGE", "RINCAGE PROPRE", "HDL-202 1", "PRE RINCAGE", "RINCAGE PROPRE", "RINCAGE CHAUD"],
-        "Duree": [30, 10, 10, 45, 10, 15, 10]   
+        "Duree": [30, 10, 10, 45, 10, 15, 10],
+        "Time": "00:00:00"   
     },
 
     "Cycle_170":{
         "Bain": ["SOLUWAX", "PRE RINCAGE", "RINCAGE PROPRE", "HDL-202 1", "PRE RINCAGE", "RINCAGE PROPRE",
          "Immersion HDL-2524", "PRE RINCAGE", "RINCAGE PROPRE", "RINCAGE ASPERTION", "RINCAGE CHAUD"],
-        "Duree": [30, 10, 10, 45, 10, 15, 35, 10, 15, 5, 10]   
+        "Duree": [30, 10, 10, 45, 10, 15, 35, 10, 15, 5, 10],
+        "Time": "00:00:00"   
     },
 
     "Cycle_90":{
         "Bain": ["HDL-202 Ti", "PRE RINCAGE", "RINCAGE PROPRE", "RINCAGE CHAUD"],
-        "Duree": [20, 10, 15, 10]
+        "Duree": [20, 10, 15, 10],
+        "Time": "00:00:00"
     },
 
     "Cycle_700":{
         "Bain": ["SOLUWAX", "PRE RINCAGE", "RINCAGE PROPRE", "HDL-202 2", "PRE RINCAGE", "RINCAGE PROPRE",
          "HDL-73W", "PRE RINCAGE", "RINCAGE PROPRE", " HDL-2524", "PRE RINCAGE", "RINCAGE PROPRE", "RINCAGE ASPERTION",
          "HDL-73W", "PRE RINCAGE", "RINCAGE PROPRE", "RINCAGE CHAUD"],
-        "Duree": [30, 10, 10, 30, 10, 15, 30, 10, 10, 30, 10, 15, 5, 30, 10, 10, 10]    
+        "Duree": [30, 10, 10, 30, 10, 15, 30, 10, 10, 30, 10, 15, 5, 30, 10, 10, 10],
+        "Time": "00:00:00"    
     },
 
     "Cycle_701":{
@@ -32,7 +37,8 @@
          "HDL-73W", "PRE RINCAGE", "RINCAGE PROPRE", "HDL-2524", "PRE RINCAGE", "RINCAGE PROPRE", "RINCAGE ASPERTION",
          "HDL-73W", "PRE RINCAGE", "RINCAGE PROPRE", "HDL-202 2", "PRE RINCAGE", "RINCAGE PROPRE", "HDL-73W", "PRE RINCAGE",
          "RINCAGE PROPRE", " HDL-2524","PRE RINCAGE", "RINCAGE PROPRE", "RINCAGE ASPERTION", "HDL-73W", "PRE RINCAGE", "RINCAGE PROPRE", "RINCAGE CHAUD"],
-        "Duree": [30, 10, 10, 30, 10, 15, 30, 10, 10, 30, 10, 15, 5, 30, 10, 10, 30, 10, 15, 30, 10, 10, 30, 10, 15, 5, 30, 10, 10, 10]    
+        "Duree": [30, 10, 10, 30, 10, 15, 30, 10, 10, 30, 10, 15, 5, 30, 10, 10, 30, 10, 15, 30, 10, 10, 30, 10, 15, 5, 30, 10, 10, 10],
+        "Time": "00:00:00"    
     },  
 
     "Cycle_703":{
@@ -42,7 +48,9 @@
          "RINCAGE PROPRE", " HDL-2524","PRE RINCAGE", "RINCAGE PROPRE", "RINCAGE ASPERTION", "HDL-73W", "PRE RINCAGE", "RINCAGE PROPRE","HDL-202 2",
          "PRE RINCAGE", "RINCAGE PROPRE", "HDL-73W", "PRE RINCAGE", "RINCAGE PROPRE", "HDL-2524","PRE RINCAGE", "RINCAGE PROPRE","RINCAGE ASPERTION", "HDL-73W",
          "PRE RINCAGE", "RINCAGE PROPRE", "RINCAGE CHAUD"],
-        "Duree": [30, 10, 10, 30, 10, 15, 30, 10, 10, 30, 10, 15, 5, 30, 10, 10, 30, 10, 15, 30, 10, 10, 30, 10, 15, 5, 30, 10, 10, 30, 10, 15, 30, 10, 10, 30, 10, 15, 5, 30, 10, 10, 10]    
-    }, 
+        "Duree": [30, 10, 10, 30, 10, 15, 30, 10, 10, 30, 10, 15, 5, 30, 10, 10, 30, 10, 15, 30, 10, 10, 30, 10, 15, 5, 30, 10, 10, 30, 10, 15, 30, 10, 10, 30, 10, 15, 5, 30, 10, 10, 10],
+        "Time": "00:00:00"    
+    }
+    
 
 }
